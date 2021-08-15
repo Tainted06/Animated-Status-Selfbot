@@ -18,10 +18,6 @@ namespace Animated_Status_Tainted06
             Console.Write("Enter Discord Token: ");
             Console.ForegroundColor = ConsoleColor.White;
             string token = Console.ReadLine();
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.Write("Enter Emoji (Unicode Emoji) (Leave blank if you don't want an emoji): ");
-            Console.ForegroundColor = ConsoleColor.White;
-            string emoji = Console.ReadLine();
             Console.ForegroundColor = ConsoleColor.White;
             Console.Write("Enter Status Text: ");
             Console.ForegroundColor = ConsoleColor.White;
@@ -35,21 +31,21 @@ namespace Animated_Status_Tainted06
 
 
             DiscordClient client = new DiscordClient(token);
-            string userstatus = "";
             while (true)
             {
+                string userstatus = "";
                 for (int i = 0; i < status.Length; i++)
                 {
                     userstatus += status[i];
                     client.User.ChangeSettings(new UserSettingsProperties()
                     {
+                        Theme = DiscordTheme.Dark,
                         CustomStatus = new CustomStatus()
                         {
                             Text = userstatus,
-                           // EmojiName = emoji 
                         }
-                    });
-                    Console.WriteLine("Set status to " + emoji + userstatus);
+                    });;
+                    Console.WriteLine("Set status to " + userstatus);
                     Thread.Sleep(wait);
                 }
             }
