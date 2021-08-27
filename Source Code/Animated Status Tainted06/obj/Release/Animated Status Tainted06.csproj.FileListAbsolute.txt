@@ -1,0 +1,14 @@
+Z:\Github\Animated-Status-Selfbot\Source Code\Animated Status Tainted06\bin\Release\Animated Status Tainted06.exe.config
+Z:\Github\Animated-Status-Selfbot\Source Code\Animated Status Tainted06\bin\Release\Animated Status Tainted06.exe
+Z:\Github\Animated-Status-Selfbot\Source Code\Animated Status Tainted06\bin\Release\Animated Status Tainted06.pdb
+Z:\Github\Animated-Status-Selfbot\Source Code\Animated Status Tainted06\bin\Release\Anarchy.dll
+Z:\Github\Animated-Status-Selfbot\Source Code\Animated Status Tainted06\bin\Release\Leaf.xNet.dll
+Z:\Github\Animated-Status-Selfbot\Source Code\Animated Status Tainted06\bin\Release\Newtonsoft.Json.dll
+Z:\Github\Animated-Status-Selfbot\Source Code\Animated Status Tainted06\bin\Release\websocket-sharp.dll
+Z:\Github\Animated-Status-Selfbot\Source Code\Animated Status Tainted06\bin\Release\Leaf.xNet.xml
+Z:\Github\Animated-Status-Selfbot\Source Code\Animated Status Tainted06\bin\Release\Newtonsoft.Json.xml
+Z:\Github\Animated-Status-Selfbot\Source Code\Animated Status Tainted06\obj\Release\Animated Status Tainted06.csproj.AssemblyReference.cache
+Z:\Github\Animated-Status-Selfbot\Source Code\Animated Status Tainted06\obj\Release\Animated Status Tainted06.csproj.CoreCompileInputs.cache
+Z:\Github\Animated-Status-Selfbot\Source Code\Animated Status Tainted06\obj\Release\Animated Status Tainted06.csproj.CopyComplete
+Z:\Github\Animated-Status-Selfbot\Source Code\Animated Status Tainted06\obj\Release\Animated Status Tainted06.exe
+Z:\Github\Animated-Status-Selfbot\Source Code\Animated Status Tainted06\obj\Release\Animated Status Tainted06.pdb
