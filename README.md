@@ -12,7 +12,7 @@ YOU CAN GET BANNED FROM DISCORD FOR USING THIS
 Discord TOS: https://discord.com/terms
 
 When you run this program, all your server folders will be deleted!
-And your servers will be rearraged 
+And your servers will be rearranged  
 I'm not sure why this happens, possibly a bug in the api
 
 ![Example Gif](https://github.com/Tainted06/Animated-Status-Selfbot/blob/main/Assets/ChObMmlUlj.gif "Example Gif")
